@@ -16,4 +16,10 @@ Installez le fichier puis modifier
 ⏰ Changer dans le start .bat le "you link" ⏰
 
 
+![image](https://github.com/ToxLuZ/DelTemp/assets/129098417/1492b801-cd52-4c1e-a41c-561172d4efc4)
+
+![image](https://github.com/ToxLuZ/DelTemp/assets/129098417/77bd5b5a-3428-4a7a-8b2d-12b0615b4f6b)
+
+
+
 
